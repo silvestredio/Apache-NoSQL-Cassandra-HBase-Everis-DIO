@@ -44,7 +44,7 @@
 
 ![NoSQL 22 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142895632-b8df5d85-a501-44e6-b4ec-6c214750864a.jpg)
 
-![NoSQL 23 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142895648-da691f61-7ec8-41e9-9bd8-cba8ac5d17c7.jpg)
+![NoSQL 23 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142896369-1f358ae8-e93e-4b16-a255-d0447fd8ea40.jpg)
 
 ![NoSQL 24 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142895678-9894ceac-49a5-4125-b5b9-4893ea3fe755.jpg)
 
