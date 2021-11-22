@@ -92,4 +92,26 @@
 
 ![NoSQL 46 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142898529-3edc2bbd-f833-43c4-a83c-3c617356789a.jpg)
 
-![NoSQL 47 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142898561-0f12efdf-99e4-401f-98ff-e06d968989aa.jpg)
+![NoSQL 47 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142898561-0f12efdf-99e4-401f-98ff-e06d968989aa.jpg) 
+
+![NoSQL 48 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142902508-697d1bfc-9e01-4dfd-b32b-63cfc01a5b8a.jpg)
+
+![NoSQL 49 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142902530-74c70ee0-1aab-4817-b145-d405f23e508d.jpg)
+
+![NoSQL 50 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142902547-6725da26-381d-4461-9f22-1110b266d80d.jpg)
+
+![NoSQL 51 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142902563-331da6f3-966d-4e25-b3e9-b95137e84507.jpg)
+
+![NoSQL 52 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142902588-3a096eca-ef0c-4742-922a-e8c6e4c95737.jpg)
+
+![NoSQL 53 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142902606-858bac10-ea74-470b-967f-a6e103227e5c.jpg)
+
+![NoSQL 54 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142902649-4f1f8fc1-da96-4bdb-8952-d15df1489bdd.jpg)
+
+![NoSQL 55 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142902677-f96bab4b-5714-42bd-95cf-888c61497059.jpg)
+
+![NoSQL 56 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142902701-98baf398-be65-4c91-8543-cd7e15024e2e.jpg)
+
+![NoSQL 57 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142902731-29f1ee20-81a1-4cfc-bbb1-1f0fa0b72c3d.jpg)
+
+![NoSQL 58 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142902755-fdd72284-2c3c-48af-a525-b401de6e4d8b.jpg)
