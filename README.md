@@ -114,4 +114,32 @@
 
 ![NoSQL 57 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142902731-29f1ee20-81a1-4cfc-bbb1-1f0fa0b72c3d.jpg)
 
-![NoSQL 58 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142902755-fdd72284-2c3c-48af-a525-b401de6e4d8b.jpg)
+![NoSQL 58 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142902755-fdd72284-2c3c-48af-a525-b401de6e4d8b.jpg) 
+
+![NoSQL 59 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142904902-15b10cfb-7701-45ba-b5fd-4494b87c1c92.jpg)
+
+![NoSQL 60 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142904919-67b8fa24-b14d-4a77-804c-c71a186d707d.jpg)
+
+![NoSQL 61 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142904932-4bc4d7f6-6d3e-4709-bc1b-eb9dfb8ed580.jpg)
+
+![NoSQL 62 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142904946-a64601a6-a73b-4291-9640-0ba06056ce46.jpg)
+
+![NoSQL 63 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142904967-a7044c9b-6fc1-4d55-8fef-e2e7e11001cd.jpg)
+
+![NoSQL 64 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142904986-55c95676-c064-4f3b-be3e-92116ca3ddd3.jpg)
+
+![NoSQL 65 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142905012-e0e4a8d4-682f-4953-a7c4-ed33cadf1cf7.jpg)
+
+![NoSQL 66 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142905030-849283e7-ebeb-4225-936d-f52d80f00e1d.jpg)
+
+![NoSQL 67 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142905053-5b187121-2c4d-4122-ae58-9e6bfd0af02b.jpg)
+
+![NoSQL 68 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142905093-06d5d2f4-a050-4f1f-a582-f06d8b464303.jpg)
+
+![NoSQL 69 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142905104-b05dde26-880a-43e6-9bb0-9386d44cc41e.jpg)
+
+![NoSQL 70 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142905135-97e51138-e527-4deb-a072-6dbea556039c.jpg)
+
+![NoSQL 71 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142905162-f7f9fe8c-062d-4696-9371-6e4d57d2941e.jpg)
+
+![NoSQL 72 Apache Cassandra HBase](https://user-images.githubusercontent.com/93165498/142905184-4556e5c4-256e-4332-9780-1ec7925f051d.jpg)
